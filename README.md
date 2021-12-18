@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=StephanZaaijer&theme=radical&show_icons=true" width="410"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanZaaijer&layout=compact&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=StephanZaaijer&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanZaaijer&layout=compact" width="400" />
 </p>
 <!--
 **StephanZaaijer/StephanZaaijer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
